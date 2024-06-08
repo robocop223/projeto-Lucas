@@ -39,7 +39,7 @@ nav ul li a:hover {
 }
 
 .foto-perfil {
-  width: 30%; /* Largura da imagem */
+  width: 10%; /* Largura da imagem */
   margin-right: 20px; /* Espaçamento entre a imagem e o texto */
   object-fit: cover; /* Garante que a imagem se ajuste bem */
 }

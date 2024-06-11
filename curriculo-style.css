@@ -1,0 +1,45 @@
+/* Estilos para o currículo */
+body {
+    background-color: #f0f8ff; /* Fundo azul claro */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+    margin: 0;
+    padding: 20px;
+    text-align: justify; /* Texto justificado */
+}
+
+h1 {
+    color: darkblue;
+    text-align: center; /* Centralizar o título principal */
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: darkgreen;
+    border-bottom: 1px solid #ccc; /* Linha abaixo do subtítulo */
+    padding-bottom: 5px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+p {
+    color: #333; /* Cor do texto */
+    line-height: 1.6; /* Espaçamento entre linhas */
+}
+
+ul {
+    list-style-type: disc; /* Marcadores de lista padrão */
+    margin-left: 20px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:hover {
+    color: darkred; /* Cor dos links ao passar o mouse */
+}
